@@ -1,0 +1,105 @@
+welcome: 
+  - text: Hey there comedy fan, I'll bet you're pretty funny but I'm sure you could stand to be funnier. I can help with that.
+    typing: 2s
+  - text: If you'd like me to share with you my priceless wealth of premium knee-slappers just ask me to tell you a joke.
+    typing: 3s
+  - text: If you'd like me to memorize some of your tried and true favourites just say 'remember the joke' followed by the actual joke. And when you want a reminder of how those go, just ask me for your favourite jokes.
+    typing: 3s
+
+goodbye:
+  - text: You are leaving because {{reason}}?
+    typing: 3s
+  - Hope to see you back again soon!
+
+remember:
+  - text: Oh, that's a good one! I will remember that joke for you.
+    typing: 3s
+
+yourfavourites:
+  - typing: 2s
+    text: "These are all your favourite jokes:"
+
+favourites:
+  - typing: 5s 
+    text: {{favourite}}
+
+telljokes: 
+  - text: What kind of joke would you like to hear? One liner? Tech? Animal? Or should I surprise you?
+    typing: 3s
+
+onelinerjokes: 
+  - typing: 4s
+    text: 
+      - Guys, to be Frank, I would have to change my name.
+      - I know loads of jokes about cash machines, I just can't think of one atm.
+      - I hate it when people don't know when to type your and you're. There so stupid.
+      - The amount of people who confuse 'to' and 'too' is amazing two me. 
+      - My friend was upset so I gave him ten puns hoping one of them would make him laugh, sadly, no pun in ten did.
+      - I own the world’s worst thesaurus. Not only is it awful, it’s awful.
+      - So what if I don't know what "Armageddon" means? It's not the end of the world.
+      - What’s the difference between a good joke and a bad joke timing.
+      - I woke up this morning and forgot which side the sun rises from, then it dawned on me.
+      - Velcro—what a rip-off!
+      - I’ve just written a song about tortillas; actually, it’s more of a rap.
+      - Don’t you hate it when someone answers their own questions? I do.
+      - I hate Russian dolls, they’re so full of themselves.
+      - I recently decided to sell my vacuum cleaner as all it was doing was gathering dust.
+      - I have clean conscience. I haven’t used it once until now.
+      - If we shouldn’t eat at night, why do they put a light in the fridge?
+      - If I got 50 cents for every failed math exam, I’d have $ 6.30 now.
+      - I think we're in for a bad spell of wether. 
+
+techjokes:
+  - typing: 4s
+    text: 
+      - What do you call two monkeys that share an Amazon account? Prime Mates.
+      - Why do they call it hyper text? Too much JAVA.
+      - "There are 10 types of people in the world: those who like binary, and those who don't."
+      - How many programmers does it take to change a light bulb? None--it's a hardware problem. 
+      - Why was the JavaScript developer sad? Because he didn't Node how to Express himself.
+      - In order to understand recursion you must first understand recursion.
+      - Why do Java developers wear glasses? Because they can't C#
+      - Why did the developer go broke? Because he used up all his cache
+      - 8 bytes walk into a bar, the bartenders asks "What will it be?" One of them says, "Make us a double."
+      - Two bytes meet. The first byte asks, "Are you ill?" The second byte replies, "No, just feeling a bit off."
+      - There's a band called 1023MB. They haven't had any gigs yet.
+      - "There are only two hard things in computer science: cache invalidation, naming things, and off-by-one errors."
+      - An SEO expert walks into a bar, bars, pub, tavern, public house, Irish pub, drinks, beer, alcohol
+      - Wife says to her programmer husband, "Go to the store and buy a loaf of bread. If they have eggs, buy a dozen." Husband returns with 12 loaves of bread. 
+
+animaljokes:
+  - typing: 4s
+    text: 
+      - What do you call a musical puppy? A subwoofer.
+      - I hate snakes and worms because they have no feet. You could say I'm lacktoes intolerant.
+      - Just locked eyes with a spider, but instead of killing him, I ran away and hid so he can spend the whole night stressing about where I am.
+      - What do you call a man with cat scratches all over his head? Claude.
+      - Why does a dog wag its tail? Because there’s no one else to wag it for him.
+      - What kind of sports car does a cat drive? A Furrari.
+      - Why was the cat scared of the tree? Because of its bark. 
+      - What did the duck say when he bought lipstick? "Put it on my bill."
+      - Can a kangaroo jump higher than the Empire State Building? Of course. The Empire State Building can't jump.
+      - Why couldn't the leopard play hide and seek? Because he was always spotted.
+      - How do you count cows? With a cowculator.
+      - The energizer bunny was arrested on a charge of battery.
+      - Teacher':' "I asked you to draw a cow and grass, but I only see a cow. Where is grass?" Student':'' "The cow ate the grass, sir."
+      - What type of sandals do frogs wear? Open-toad!
+      - What do you get when you cross a fish and an elephant? Swimming trunks.
+
+randomjokes:
+  - typing: 4s
+    text: 
+      - The world tongue-twister champion just got arrested. I hear they're gonna give him a really tough sentence.
+      - Ever wondered why bread is just like the sun? It rises in the yeast and sets in waist.
+      - I began reading a horror novel in braille. Something bad is about to happen. I can feel it.
+      - Who is the coolest guy in the hospital? The ultrasound guy. Who takes over when he's on holiday? The hip replacement guy.
+      - I've got diarrhea, my dad's got diarrhea and my grandad's got diarrhea. Runs in the family.
+      - Just been on a diabetes awareness website and it asked me if I accept cookies. Is that a trick question?
+      - Two dyslexics are in a kitchen, one says to the other "Can you smell food?" The other replies "I can't even smell my own name!"
+      - Why couldn't 8 get back up? When it fell over, it was forever. 
+      - The other day I bought myself a universal remote and thought to myself well this changes everything.
+      - What do you call a snowman with a six pack? An abdominal snowman.
+      - I saw a magician yesterday who turned audience members into wind turbines. I immediately became a big fan.
+      - A guy is at home and hears a knock at the door. He opens the door and sees a snail on the porch. He picks up the snail and throws it as far as he can. 3 years later there's a knock on the door. He opens it and sees the same snail who says 'What the hell was that all about?'
+      - Have you heard the story about the courduroy pillow? Apparently it's making headlines.
+      - What's the difference between ignorance and apathy? I don't know and I don't care.
